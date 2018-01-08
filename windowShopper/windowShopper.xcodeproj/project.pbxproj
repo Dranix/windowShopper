@@ -15,6 +15,7 @@
 		FA2A5DC11FFB411500AF1344 /* windowShopperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2A5DC01FFB411500AF1344 /* windowShopperTests.swift */; };
 		FA2A5DCC1FFB411500AF1344 /* windowShopperUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2A5DCB1FFB411500AF1344 /* windowShopperUITests.swift */; };
 		FA2A5DDD1FFB469200AF1344 /* CurrencyTxtField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2A5DDC1FFB469200AF1344 /* CurrencyTxtField.swift */; };
+		FA8269F22003140000A3D2D7 /* Wage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8269F12003140000A3D2D7 /* Wage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FA2A5DCB1FFB411500AF1344 /* windowShopperUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = windowShopperUITests.swift; sourceTree = "<group>"; };
 		FA2A5DCD1FFB411500AF1344 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FA2A5DDC1FFB469200AF1344 /* CurrencyTxtField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyTxtField.swift; sourceTree = "<group>"; };
+		FA8269F12003140000A3D2D7 /* Wage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 		FA2A5DDB1FFB41C300AF1344 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				FA8269F12003140000A3D2D7 /* Wage.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -287,6 +290,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA2A5DDD1FFB469200AF1344 /* CurrencyTxtField.swift in Sources */,
+				FA8269F22003140000A3D2D7 /* Wage.swift in Sources */,
 				FA2A5DAE1FFB411500AF1344 /* MainVC.swift in Sources */,
 				FA2A5DAC1FFB411500AF1344 /* AppDelegate.swift in Sources */,
 			);
